@@ -1,6 +1,8 @@
 # NFT Metaverse Gallery
 
-A simple gamified NFT gallery of my work.
+A WebGL experience that presents a collection of my NFTs in an interactive way.
+
+The gallery allows you to explore a virtual space filled with unique art pieces in a first-person view.
 
 ![Preview](https://raw.githubusercontent.com/kessoning/nft_metaverse_gallery/main/preview/preview.png)
 
