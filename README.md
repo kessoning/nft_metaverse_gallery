@@ -26,9 +26,8 @@ The 3D model used for the experience can be found [Here](https://sketchfab.com/3
 
 ## Tech
 
-- [Threejs] - A lightweight, cross-browser, general purpose 3D library
-- [Vite] - Next Generation Frontend Tooling
-- [GSAP] - JavaScript animation library built for professionals.
+- [Threejs](https://threejs.org/) - A lightweight, cross-browser, general purpose 3D library
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
 ## Installation
 
