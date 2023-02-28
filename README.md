@@ -2,6 +2,8 @@
 
 A simple gamified NFT gallery of my work.
 
+![Preview](https://raw.githubusercontent.com/kessoning/nft_metaverse_gallery/main/preview/preview.png)
+
 ### [Play live here!](https://kesson.io/experiments/metagallery/)
 
 ## Features
