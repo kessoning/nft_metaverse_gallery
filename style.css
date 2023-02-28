@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  overscroll-behavior: none;
+  overflow: hidden;
+}
+
+canvas {
+  margin: 0;
+  padding: 0;
+}
+
+#blocker {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#instructions {
+  width: 100%;
+  height: 100%;
+
+  font-weight: 200;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#artwork-name {
+  position: absolute;
+  margin: 0;
+  padding: 20px 24px;
+  width: 100%;
+  min-height: 25px;
+  overflow: hidden;
+  left: 50%;
+  bottom: 5%;
+  text-align: center;
+  font-size: 14px;
+  background-color: rgba(0, 0, 0, 0.5);
+  transform: translate(-50%, -50%);
+  visibility: hidden;
+}
+
+#artwork-name p {
+  margin: 0;
+  padding: 0;
+}
+
+#description {
+  position: absolute;
+  bottom: 16px;
+  font-size: 12px;
+}
